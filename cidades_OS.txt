@@ -1,0 +1,25 @@
+    Nova York
+    Londres
+    Paris
+    Tóquio
+    Roma
+    Sydney
+    Moscou
+    Rio de Janeiro
+    Cidade do México
+    Cairo
+    Toronto
+    Berlim
+    Pequim
+    Mumbai
+    Cidade do Cabo
+    Buenos Aires
+    Dubai
+    Amsterdã
+    Atenas
+    Istambul
+    São Paulo
+    Los Angeles
+    Delhi
+    Seul
+    Bangkok
