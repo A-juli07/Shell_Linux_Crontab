@@ -17,5 +17,6 @@ Adicionar o script criado na Questão 01 no cron ou crontab do linux, para que a
 
 - No terminal digite o camando "crontab -e", cujo vai abrir um executavel crontab, no arquivo digite o camando : * * * * * sh teste_OS.sh > /home/cliente/arquivo.log ;
 - O camando vai fazer com que o executavel ocorra de 1 em 1 minuto;
+- Para que o arquivo teste_OS seja executado, digite no terminal : sudo tail -f /home/cliente/arquivo.log ;
 # Questão - 03
 Apresente 5 vantagens e desvantagens dos seguintes tipos de partição lógica: EXT4, NFTS, e APFS.
