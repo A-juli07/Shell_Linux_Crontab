@@ -11,7 +11,7 @@ Imprimir/listar o número de imagens, videos e arquivos de música na pasta home
 
 - Criação do arquivo executavél pelo comando : nano teste_OS.sh ("teste_OS" sendo somente o nome dado ao arquivo);
 - O seguinte executavel está disponibilizado nos aquivos do repositorio. 
-- Para a criação de uma palavra diferente a cada execução, foi feito um arquivo txt pelo comando : nano cidades_OS.txt ;Onde tem o nome de mais de 20 cidades aleatorias. 
+- Para a criação de uma palavra diferente a cada execução, foi feito um arquivo txt pelo comando : nano cidades_OS.txt ; Onde tem o nome de mais de 20 cidades aleatorias. 
 # Questão - 02
 Adicionar o script criado na Questão 01 no cron ou crontab do linux, para que a cada 5 minutos o script seja executado e o resultado seja apresentado ao usuário.
 # Questão - 03
