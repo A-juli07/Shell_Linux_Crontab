@@ -15,6 +15,7 @@ Imprimir/listar o número de imagens, videos e arquivos de música na pasta home
 # Questão - 02
 Adicionar o script criado na Questão 01 no cron ou crontab do linux, para que a cada 5 minutos o script seja executado e o resultado seja apresentado ao usuário.
 
-- No terminal digite o camando "crontab -e", cujo vai abrir um executavel crontab, no arquivo digite o camando : * * * * * sh teste_OS.sh > /home/cliente/arquivo.log
+- No terminal digite o camando "crontab -e", cujo vai abrir um executavel crontab, no arquivo digite o camando : * * * * * sh teste_OS.sh > /home/cliente/arquivo.log ;
+- O camando vai fazer com que o executavel ocorra de 1 em 1 minuto;
 # Questão - 03
 Apresente 5 vantagens e desvantagens dos seguintes tipos de partição lógica: EXT4, NFTS, e APFS.
