@@ -24,9 +24,9 @@ Adicionar o script criado na Questão 01 no cron ou crontab do linux, para que a
 Apresente 5 vantagens e desvantagens dos seguintes tipos de partição lógica: EXT4, NFTS, e APFS.
 
 - EXT4
-
 ![Vantagens](https://github.com/A-juli07/Crontab_Linux_AnaJuliaVP/assets/113532608/ffcfc3ef-cf0e-4cd1-a31f-0e338c6e56c4)
-
-
 - NFTS
+![Vantagens(1)](https://github.com/A-juli07/Crontab_Linux_AnaJuliaVP/assets/113532608/fbf7f6f5-29d5-4e7b-8dc7-6e87afcfdd02)
 - APFS
+- 
+
